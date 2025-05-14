@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FoodApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FoodApp.dbrzdda5o1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\wwwroot\\images\\bread.png",
+      "PackagePath": "staticwebassets\\images\\bread.png"
+    },
+    {
+      "Id": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\wwwroot\\images\\bread_variety_512px.png",
+      "PackagePath": "staticwebassets\\images\\bread_variety_512px.png"
+    },
+    {
+      "Id": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\wwwroot\\images\\cake_512px.png",
+      "PackagePath": "staticwebassets\\images\\cake_512px.png"
+    },
+    {
+      "Id": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\wwwroot\\images\\comments_512px.png",
+      "PackagePath": "staticwebassets\\images\\comments_512px.png"
+    },
+    {
+      "Id": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\wwwroot\\images\\store_512px.png",
+      "PackagePath": "staticwebassets\\images\\store_512px.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FoodApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FoodApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FoodApp.props",
+      "PackagePath": "build\\FoodApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FoodApp.props",
+      "PackagePath": "buildMultiTargeting\\FoodApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FoodApp.props",
+      "PackagePath": "buildTransitive\\FoodApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

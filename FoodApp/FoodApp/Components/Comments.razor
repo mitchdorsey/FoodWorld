@@ -1,0 +1,98 @@
+﻿@page "/comments"
+@rendermode InteractiveServer
+
+@using DataAccessLibrary
+@using DataAccessLibrary.Models
+@using FoodApp.Models
+
+@inject ICommentsData _db
+
+<PageTitle>Comments</PageTitle>
+
+
+<h3>Comments</h3>
+
+<div class="newComment">
+	<h4>Insert new comment</h4>
+	<EditForm Model="@newComment" OnValidSubmit="@InsertComment">
+		<DataAnnotationsValidator/>
+		<ValidationSummary/>
+		<div class="container">
+			<div class="row">
+				<div><label>Title: </label><InputText id="title" @bind-Value="newComment.Title" /></div>
+			</div>
+			<div class="row">
+				<div class="col-2"><label>Comment: </label></div>
+				<div class="col-6">
+					<InputTextArea style="width: 100%;" class="commentTextArea" id="comment" @bind-Value="newComment.Note" placeholder="Write a comment..."/>
+				</div>
+				<div class="col-4"></div>
+			</div>
+		</div>
+		
+
+		<button type="submit" class="btn btn-primary">Submit</button>
+	</EditForm>
+</div>
+@if(comments is null)
+{
+	<p><em>Loading...</em></p>
+}
+else
+{
+	<table class=" table table-striped">
+		<thead>
+			<tr>
+				<th>Id</th>
+				<th>Title</th>
+				<th>Note</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach(var comment in comments)
+			{
+				<tr>
+					<td>@comment.Id</td>
+					<td>@comment.Title</td>
+					<td>@comment.Note</td>
+				</tr>
+			}
+		</tbody>
+	</table>	
+}
+
+
+@* <div>
+	<input type="text" placeholder="Title" />
+	<InputText></InputText>
+</div>
+<div>
+	<textarea placeholder="Comment"></textarea>
+</div> *@
+
+@code {
+
+	private List<Comment> comments;
+	private DisplayComment newComment = new DisplayComment();
+
+	protected override async Task OnInitializedAsync()
+	{
+		comments = await _db.GetComments();
+	}
+
+	private async Task InsertComment()
+	{
+
+		Comment comment = new Comment
+			{
+				Title = newComment.Title,
+				Note = newComment.Note
+			};
+
+		await _db.InsertComment(comment);
+
+		comments.Add(comment);
+
+		newComment = new DisplayComment();
+	}
+}

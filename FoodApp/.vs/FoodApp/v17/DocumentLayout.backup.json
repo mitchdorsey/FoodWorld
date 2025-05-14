@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mitch\\source\\repos\\FoodApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|c:\\users\\mitch\\source\\repos\\foodapp\\foodapp\\components\\pages\\comments.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\components\\pages\\comments.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|c:\\users\\mitch\\source\\repos\\foodapp\\foodapp\\components\\pages\\comments.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\components\\pages\\comments.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|c:\\users\\mitch\\source\\repos\\foodapp\\foodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|c:\\users\\mitch\\source\\repos\\foodapp\\foodapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3475A87-796C-4BC8-B1B3-BC7C5EDB0D84}|DataAccessLibrary\\DataAccessLibrary.csproj|c:\\users\\mitch\\source\\repos\\foodapp\\dataaccesslibrary\\commentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3475A87-796C-4BC8-B1B3-BC7C5EDB0D84}|DataAccessLibrary\\DataAccessLibrary.csproj|solutionrelative:dataaccesslibrary\\commentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|c:\\users\\mitch\\source\\repos\\foodapp\\foodapp\\models\\displaycomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\models\\displaycomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|c:\\users\\mitch\\source\\repos\\foodapp\\foodapp\\foodapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\foodapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|c:\\users\\mitch\\source\\repos\\foodapp\\foodapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52DEA3BF-DB3F-4F6F-B9A6-6C3E3C9095B5}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comments.razor.css",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\Components\\Pages\\Comments.razor.css",
+              "RelativeDocumentMoniker": "FoodApp\\Components\\Pages\\Comments.razor.css",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\Components\\Pages\\Comments.razor.css",
+              "RelativeToolTip": "FoodApp\\Components\\Pages\\Comments.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-01T23:08:43.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comments.razor",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\Components\\Pages\\Comments.razor",
+              "RelativeDocumentMoniker": "FoodApp\\Components\\Pages\\Comments.razor",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\Components\\Pages\\Comments.razor",
+              "RelativeToolTip": "FoodApp\\Components\\Pages\\Comments.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T01:55:58.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodApp.csproj",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\FoodApp.csproj",
+              "RelativeDocumentMoniker": "FoodApp\\FoodApp.csproj",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\FoodApp.csproj",
+              "RelativeToolTip": "FoodApp\\FoodApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T16:55:05.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "FoodApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "FoodApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T19:19:50.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "FoodApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "FoodApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T20:02:48.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayComment.cs",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\Models\\DisplayComment.cs",
+              "RelativeDocumentMoniker": "FoodApp\\Models\\DisplayComment.cs",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\Models\\DisplayComment.cs",
+              "RelativeToolTip": "FoodApp\\Models\\DisplayComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:25:10.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\Program.cs",
+              "RelativeDocumentMoniker": "FoodApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\FoodApp\\FoodApp\\Program.cs",
+              "RelativeToolTip": "FoodApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:01:47.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentsData.cs",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\FoodApp\\DataAccessLibrary\\CommentsData.cs",
+              "RelativeDocumentMoniker": "DataAccessLibrary\\CommentsData.cs",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\FoodApp\\DataAccessLibrary\\CommentsData.cs",
+              "RelativeToolTip": "DataAccessLibrary\\CommentsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:28:14.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
